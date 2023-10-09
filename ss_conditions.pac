@@ -129,6 +129,7 @@ var __BLOCKEDSITES__ = [
   "*.paperpaper.io",
   "*.patreon.com",
   "*.politiken.dk",
+  "*.pornolab.net",
   "*.posle.media",
   "*.postimees.ee",
   "*.proekt.media",
@@ -209,7 +210,14 @@ var __BLOCKEDSITES__ = [
   "*.zahav.ru",
   "*.zerkalo.io",
   "*.zona.media",
-  "*.zomro.com"
+  "*.zomro.com",
+  "*.nhentai.net",
+  "*.pornhub.com",
+  "*.loverslab.com",
+  "*.reactor.cc",
+  "*.zerochan.net",
+  "*.joyreactor.cc",
+  "*.fptsoftware.com"
 ];
 
 var proxy;
