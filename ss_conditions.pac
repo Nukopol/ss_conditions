@@ -218,7 +218,9 @@ var __BLOCKEDSITES__ = [
   "*.zerochan.net",
   "*.joyreactor.cc",
   "*.fptsoftware.com",
-  "*.hentaichan.live"
+  "*.hentaichan.live",
+  "*.nnm-club.to",
+  "nnm-club.to"
 ];
 
 var proxy;
