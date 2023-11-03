@@ -219,8 +219,7 @@ var __BLOCKEDSITES__ = [
   "*.joyreactor.cc",
   "*.fptsoftware.com",
   "*.hentaichan.live",
-  "*.nnm-club.to",
-  "nnm-club.to"
+  "*.nnm-club.to"
 ];
 
 var proxy;
