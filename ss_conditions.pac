@@ -220,7 +220,9 @@ var __BLOCKEDSITES__ = [
   "*.fptsoftware.com",
   "*.hentaichan.live",
   "*.nnm-club.to",
-  "*.nude-moon.fun"
+  "*.nnmclub.to",
+  "*.nude-moon.fun",
+  "*.pixiv.net"
 ];
 
 var proxy;
