@@ -222,7 +222,8 @@ var __BLOCKEDSITES__ = [
   "*.nnm-club.to",
   "*.nnmclub.to",
   "*.nude-moon.fun",
-  "*.pixiv.net"
+  "*.pixiv.net",
+  "*.kemono.su"
 ];
 
 var proxy;
