@@ -223,7 +223,8 @@ var __BLOCKEDSITES__ = [
   "*.nnmclub.to",
   "*.nude-moon.fun",
   "*.pixiv.net",
-  "*.kemono.su"
+  "*.kemono.su",
+  "*.rule34video.com"
 ];
 
 var proxy;
