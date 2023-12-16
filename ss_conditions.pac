@@ -224,7 +224,8 @@ var __BLOCKEDSITES__ = [
   "*.nude-moon.fun",
   "*.pixiv.net",
   "*.kemono.su",
-  "*.rule34video.com"
+  "*.rule34video.com",
+  "*.e-hentai.org"
 ];
 
 var proxy;
