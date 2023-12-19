@@ -225,7 +225,8 @@ var __BLOCKEDSITES__ = [
   "*.pixiv.net",
   "*.kemono.su",
   "*.rule34video.com",
-  "*.e-hentai.org"
+  "*.e-hentai.org",
+  "*.fapello.com"
 ];
 
 var proxy;
