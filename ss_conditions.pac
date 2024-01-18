@@ -226,7 +226,8 @@ var __BLOCKEDSITES__ = [
   "*.kemono.su",
   "*.rule34video.com",
   "*.e-hentai.org",
-  "*.fapello.com"
+  "*.fapello.com",
+  "*.danbooru.donmai.us"
 ];
 
 var proxy;
