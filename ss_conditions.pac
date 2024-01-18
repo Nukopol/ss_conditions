@@ -227,7 +227,8 @@ var __BLOCKEDSITES__ = [
   "*.rule34video.com",
   "*.e-hentai.org",
   "*.fapello.com",
-  "*.danbooru.donmai.us"
+  "*.danbooru.donmai.us",
+  "*.chat.openai.com"
 ];
 
 var proxy;
