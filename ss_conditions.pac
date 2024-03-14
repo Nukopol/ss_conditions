@@ -228,7 +228,8 @@ var __BLOCKEDSITES__ = [
   "*.e-hentai.org",
   "*.fapello.com",
   "*.danbooru.donmai.us",
-  "*.chat.openai.com"
+  "*.chat.openai.com",
+  "*.spacex.com"
 ];
 
 var proxy;
