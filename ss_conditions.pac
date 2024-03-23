@@ -229,7 +229,8 @@ var __BLOCKEDSITES__ = [
   "*.fapello.com",
   "*.danbooru.donmai.us",
   "*.chat.openai.com",
-  "*.spacex.com"
+  "*.spacex.com",
+  "*.redgifs.com"
 ];
 
 var proxy;
