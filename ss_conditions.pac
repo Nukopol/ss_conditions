@@ -230,7 +230,8 @@ var __BLOCKEDSITES__ = [
   "*.danbooru.donmai.us",
   "*.chat.openai.com",
   "*.spacex.com",
-  "*.redgifs.com"
+  "*.redgifs.com",
+  "*.xvideos.com"
 ];
 
 var proxy;
