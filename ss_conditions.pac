@@ -231,7 +231,8 @@ var __BLOCKEDSITES__ = [
   "*.chat.openai.com",
   "*.spacex.com",
   "*.redgifs.com",
-  "*.xvideos.com"
+  "*.xvideos.com",
+  "*.x.com"
 ];
 
 var proxy;
