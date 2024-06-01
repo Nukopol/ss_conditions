@@ -232,7 +232,9 @@ var __BLOCKEDSITES__ = [
   "*.spacex.com",
   "*.redgifs.com",
   "*.xvideos.com",
-  "*.x.com"
+  "*.x.com",
+  "*.a.nude-moon.fun",
+  "*.nude-moon.*"
 ];
 
 var proxy;
