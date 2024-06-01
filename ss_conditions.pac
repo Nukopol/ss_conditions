@@ -234,7 +234,8 @@ var __BLOCKEDSITES__ = [
   "*.xvideos.com",
   "*.x.com",
   "*.a.nude-moon.fun",
-  "*.nude-moon.*"
+  "*.nude-moon.*",
+  "*.exhentai.org"
 ];
 
 var proxy;
