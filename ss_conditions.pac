@@ -238,6 +238,7 @@ var __BLOCKEDSITES__ = [
   "*.exhentai.org",
   "*.chatgpt.com",
   "*.youtube.com",
+  "@@||youtube.com",
 ];
 
 var proxy;
